@@ -1,4 +1,4 @@
--- LocalScript: StarterPlayerScripts/SpeedClient.lua
+StarterPlayerScripts/SpeedClient.lua
 local UserInputService = game:GetService("UserInputService")
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
